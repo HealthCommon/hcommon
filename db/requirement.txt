@@ -1,0 +1,6 @@
+- register user -> Login
+- Login -> Dashboard screen
+
+- Menu -> add Dashboard menu option
+- Add Patient -> Dashboard Screen
+-> on click of particular patient go to detail page
